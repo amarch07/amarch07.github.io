@@ -1,0 +1,53 @@
+*{
+  box-sizing: border-box;
+}
+
+.header h1 {
+  width: 100%;
+  font-family: 'EB Garamond';
+  font-size: 40px;
+  color:#4146d2;
+  text-align: left;
+}
+
+.row{
+  width: 100%;
+  display: flex;
+}
+
+h2{
+  font-family:'Dancing Script';
+  font-size: 30px;
+}
+
+
+.col-6 {
+  width: 50%;
+  font-family: '';
+  font-size: 1.2em;
+  margin-right: 10%;
+  margin-left: 2%;
+}
+
+.col-6 img{
+  border-radius: 10%;
+  padding: 10em
+
+}
+.education{
+  width; 100%;
+}
+
+.degree {
+  font-style: italic;
+}
+
+.colleges{
+  border: 2px solid black;
+  text-align: center;
+  padding: 1em;
+}
+
+.title{
+  text-align: left;
+}

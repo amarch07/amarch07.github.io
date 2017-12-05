@@ -1,0 +1,45 @@
+*{
+  box-sizing: border-box;
+}
+
+.header {
+  width: 100%;
+  font-family: 'EB Garamond', bold;
+  font-size: 32px;
+  color:#4146d2;
+  text-align: left;
+}
+
+.projects {
+  width: 100%;
+  text-align:center;
+  font-family: 'Dancing Script', cursive;
+}
+
+.projectpics{
+  display: flex;
+  align-items: center;
+  justify-content: center }
+}
+
+.projectpics img{
+  margin: 0;
+}
+
+h2{
+  font-size: 30px;
+  font-weight: bolder;
+}
+
+p{
+  font-size: 22px;
+}
+
+a:link, a:visited {
+    background-color: red;
+    color: black;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}

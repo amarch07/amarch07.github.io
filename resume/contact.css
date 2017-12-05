@@ -1,0 +1,11 @@
+
+.header{
+  font-family: "Alegreya Sans SC";
+  font-size: 32px;
+  text-align: center;
+  color: white;
+  background-image:url("images/contact3.jpg");
+  background-position: center;
+  background-size: 30%;
+  width: 100%;
+}
